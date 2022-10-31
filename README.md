@@ -14,6 +14,7 @@
 ## Built using
 * Node/Express
 * JWT
+* Redis
 * Mongodb
 * ReactJS
 
