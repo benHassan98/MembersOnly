@@ -51,7 +51,7 @@ const Signup = () => {
             errObj[err.param].current.textContent = err.msg;
           });
         } else {
-          navigate("/");
+          navigate("/login");
         }
       })
       .catch((err) => console.error(err));
