@@ -5,7 +5,7 @@
 
 > ## From The Odin Project's [curriculum](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/members-only)
 
-> - [live demo](#)
+> - [live demo](https://membersonlyfe-production.up.railway.app/)
 
 ## Assignment
 > Create an exclusive clubhouse where members can write anonymous posts. Inside the clubhouse, members can see who the author of a post is, but outside they can only see the message and wonder who wrote it.
